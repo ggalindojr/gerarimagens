@@ -3,6 +3,10 @@ from tkinter import ttk
 from tkinter import filedialog
 import os
 
+# ISSO É APENAS UM TESTE
+# ISSO É APENAS UM TESTE
+# ISSO É APENAS UM TESTE
+
 tela = Tk()
 tela.title('App de geração de imagens')
 tela.configure(bg='black')
